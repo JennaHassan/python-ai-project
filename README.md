@@ -43,4 +43,4 @@ source venv/bin/activate
 **Install Packages:** pip install openai
 
 
-**set up your api key:**  export OPENAI_API_KEY='your_openai_api_key_here'
+**Set up your api key:**  export OPENAI_API_KEY='your_openai_api_key_here'
