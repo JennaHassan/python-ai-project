@@ -1,45 +1,36 @@
-Task Management Bot  with ChatGpt Integration
+**Task Management Bot  with ChatGpt Integration**
 
-Features
-
-
-Add Tasks: Create new tasks and specify due dates
+**Features**
 
 
-List Tasks: View all your tasks in order
+**Add Tasks:** Create new tasks and specify due dates
 
 
-Delete Tasks: Remove Tasks from your list by task number
+**List Tasks:** View all your tasks in order
 
 
-ChatGpt Integration: This bot uses chatgpt to interpret informal language for due dates like "tomorrow" or "at 4pm today" and sorts tasks accordingly
+**Delete Tasks:** Remove Tasks from your list by task number
 
 
-Installation
+**ChatGpt Integration:** This bot uses chatgpt to interpret informal language for due dates like "tomorrow" or "at 4pm today" and sorts tasks accordingly
 
 
-Clone the repository: 
+**Installation**
 
 
-git clone https://github.com/JennaHassan/python-ai-project.git
+**Clone the repository:** git clone https://github.com/JennaHassan/python-ai-project.git
 
 
 cd python-ai-project
 
 
-Set up a virtual environment:
-
-
-python3 -m venv venv
+**Set up a virtual environment:** python3 -m venv venv
 
 
 source venv/bin/activate
 
 
-install packages:
+**Install Packages:** pip install openai
 
 
-pip install openai
-
-set up your api key:
-export OPENAI_API_KEY='your_openai_api_key_here'
+**set up your api key:**  export OPENAI_API_KEY='your_openai_api_key_here'
