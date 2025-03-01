@@ -3,6 +3,8 @@
 
 
 
+
+
 **Features**
 
 
@@ -16,6 +18,8 @@
 
 
 **ChatGpt Integration:** This bot uses chatgpt to interpret informal language for due dates like "tomorrow" or "at 4pm today" and sorts tasks accordingly
+
+
 
 
 
